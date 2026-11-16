@@ -29,7 +29,7 @@
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,r" />
 </p>
 
 **Data Science & Machine Learning**
@@ -41,7 +41,8 @@
 **Tools & Technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres" />
+  <img src="./assets/jupyter.svg" width="48" height="48" />
 </p>
 
 **Python Libraries**
