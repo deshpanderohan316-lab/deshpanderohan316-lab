@@ -70,7 +70,6 @@
 <!-- Add your best repositories here -->
 
 - **Machine Learning Projects** – Predictive modelling and classification.
-- **IPL Auction Price Prediction** – Applying ML to sports analytics.
 - **Deep Learning & NLP** – Exploring neural networks and language models.
 
 ---
