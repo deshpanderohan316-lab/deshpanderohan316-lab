@@ -42,7 +42,10 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres" />
-  <img src="./assets/jupyter.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+     width="48"
+     height="48"
+     alt="Jupyter"/>
 </p>
 
 **Python Libraries**
